@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as follows."
+title: "Central Europe Rural Landscape Dataset"
+authors:
+  - family-names: "Baláž"
+    given-names: "Peter"
+repository-code: "https://github.com/batrisso-png/central-europe-rural-landscape-dataset"
+url: "https://huggingface.co/datasets/batris-data/central-europe-rural-landscape-dataset"
+abstract: >
+  A high-resolution drone and terrestrial imagery dataset of rural landscapes
+  in Central Europe, designed for AI/ML training, computer vision,
+  and geospatial analysis.
+keywords:
+  - drone imagery
+  - rural landscape
+  - computer vision
+  - ai
+  - machine learning
+  - geospatial analysis
+license: "CC-BY-4.0"
