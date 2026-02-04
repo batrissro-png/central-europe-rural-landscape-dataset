@@ -1,0 +1,15 @@
+This GitHub repository serves as a documentation, metadata, and entry point
+for the "Central Europe Rural Landscape Dataset".
+
+The actual dataset, including all image files, annotations, and related data,
+is hosted on Hugging Face and is governed by the license specified there.
+
+Official dataset page:
+https://huggingface.co/datasets/batris-data/central-europe-rural-landscape-dataset
+
+No data files are distributed through this repository.
+
+Use of the dataset must comply with the terms and license defined on the
+official Hugging Face dataset page.
+
+Copyright (c) 2026 batrissro-png
